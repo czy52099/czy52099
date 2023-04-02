@@ -1,0 +1,136 @@
+{
+    "publicTime": "2023-04-01T11:00:00+09:00",
+    "publicTimeFormatted": "2023/04/01 11:00:00",
+    "publishingOffice": "福岡管区気象台",
+    "title": "福岡県 久留米 の天気",
+    "link": "https://www.jma.go.jp/bosai/forecast/#area_type=offices&area_code=400000",
+    "description": {
+        "publicTime": "2023-04-01T10:37:00+09:00",
+        "publicTimeFormatted": "2023/04/01 10:37:00",
+        "headlineText": "",
+        "bodyText": "　福岡県は、高気圧に覆われて、おおむね晴れています。\n\n　１日は、高気圧に覆われて晴れますが、気圧の谷の影響により曇りとなる所があるでしょう。\n\n　２日は、高気圧に覆われておおむね晴れとなるでしょう。",
+        "text": "　福岡県は、高気圧に覆われて、おおむね晴れています。\n\n　１日は、高気圧に覆われて晴れますが、気圧の谷の影響により曇りとなる所があるでしょう。\n\n　２日は、高気圧に覆われておおむね晴れとなるでしょう。"
+    },
+    "forecasts": [
+        {
+            "date": "2023-04-01",
+            "dateLabel": "今日",
+            "telop": "晴れ",
+            "detail": {
+                "weather": "晴れ",
+                "wind": "北東の風　後　北の風",
+                "wave": "０．５メートル"
+            },
+            "temperature": {
+                "min": {
+                    "celsius": null,
+                    "fahrenheit": null
+                },
+                "max": {
+                    "celsius": "27",
+                    "fahrenheit": "80.6"
+                }
+            },
+            "chanceOfRain": {
+                "T00_06": "--%",
+                "T06_12": "--%",
+                "T12_18": "0%",
+                "T18_24": "0%"
+            },
+            "image": {
+                "title": "晴れ",
+                "url": "https://www.jma.go.jp/bosai/forecast/img/100.svg",
+                "width": 80,
+                "height": 60
+            }
+        },
+        {
+            "date": "2023-04-02",
+            "dateLabel": "明日",
+            "telop": "晴れ",
+            "detail": {
+                "weather": "晴れ",
+                "wind": "北の風　海上　では　後　北の風　やや強く",
+                "wave": "０．５メートル"
+            },
+            "temperature": {
+                "min": {
+                    "celsius": "12",
+                    "fahrenheit": "53.6"
+                },
+                "max": {
+                    "celsius": "24",
+                    "fahrenheit": "75.2"
+                }
+            },
+            "chanceOfRain": {
+                "T00_06": "0%",
+                "T06_12": "0%",
+                "T12_18": "0%",
+                "T18_24": "0%"
+            },
+            "image": {
+                "title": "晴れ",
+                "url": "https://www.jma.go.jp/bosai/forecast/img/100.svg",
+                "width": 80,
+                "height": 60
+            }
+        },
+        {
+            "date": "2023-04-03",
+            "dateLabel": "明後日",
+            "telop": "晴れ",
+            "detail": {
+                "weather": "晴れ",
+                "wind": "北の風",
+                "wave": "０．５メートル"
+            },
+            "temperature": {
+                "min": {
+                    "celsius": "11",
+                    "fahrenheit": "51.8"
+                },
+                "max": {
+                    "celsius": "21",
+                    "fahrenheit": "69.8"
+                }
+            },
+            "chanceOfRain": {
+                "T00_06": "10%",
+                "T06_12": "10%",
+                "T12_18": "10%",
+                "T18_24": "10%"
+            },
+            "image": {
+                "title": "晴れ",
+                "url": "https://www.jma.go.jp/bosai/forecast/img/100.svg",
+                "width": 80,
+                "height": 60
+            }
+        }
+    ],
+    "location": {
+        "area": "九州",
+        "prefecture": "福岡県",
+        "district": "筑後地方",
+        "city": "久留米"
+    },
+    "copyright": {
+        "title": "(C) 天気予報 API（livedoor 天気互換）",
+        "link": "https://weather.tsukumijima.net/",
+        "image": {
+            "title": "天気予報 API（livedoor 天気互換）",
+            "link": "https://weather.tsukumijima.net/",
+            "url": "https://weather.tsukumijima.net/logo.png",
+            "width": 120,
+            "height": 120
+        },
+        "provider": [
+            {
+                "link": "https://www.jma.go.jp/jma/",
+                "name": "気象庁 Japan Meteorological Agency",
+                "note": "気象庁 HP にて配信されている天気予報を JSON データへ編集しています。"
+            }
+        ]
+    }
+}
